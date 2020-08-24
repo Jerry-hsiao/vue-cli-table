@@ -1,24 +1,7 @@
 # vue-equiplist
 
-## Project setup
 ```
-npm install
-```
+Vuetable is a Vue.js component that will automatically request (JSON) data from the server and display them nicely in html table.
 
-### Compiles and hot-reloads for development
+In this table that the skills are included Vue-Cli, Vue-Router, VueX, Vue-Axios, Bootstrap, Node.js
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
